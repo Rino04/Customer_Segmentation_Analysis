@@ -1,6 +1,5 @@
 # Customer_Segmentation_Analysis
-This project is an analysis of data from the Kaggle HR Dataset. This project requires developing a customer segmentation to define a marketing strategy. 
-The sample Dataset summarizes the usage behavior of about 9000 active credit card holders during the last 6 months. The file is at a customer level with 18 behavioral variables. 
+This project requires developing a customer segmentation to define a marketing strategy. The sample Dataset summarizes the usage behavior of about 9000 active credit card holders during the last 6 months. The file is at a customer level with 18 behavioral variables. 
 
 ## Platform Used:
 Google Collab
